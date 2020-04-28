@@ -17,11 +17,6 @@ original_data <- as.data.frame(original_data)
 class(original_data)
 view(original_data)
 
-# Extracting column names and labels 
-
-data_labels <- as.data.frame(label(original_data))
-view(data_labels)
-
 # creating a working data file to perform analysis and data manipulation  
 
 working_data <- original_data
