@@ -1,0 +1,149 @@
+Column labels (original_data)
+
+"CRS1" => "Our company values much more to maximize profits than being seen as socially responsible."
+
+"CRS2" => "Our company tries to avoid social responsibility actions as they can be costly"
+
+"CSR3" => "Our company supports only social initiatives that help us to keep a favourable image in the community"
+
+"CSR4" => "Our company tackles only those social problems caused by its own actions"
+
+"CSR1_rev" => "Our company supports only social initiatives that help us to keep a favourable image in the community"
+
+"CSR2_rev" => "Our company supports only social initiatives that help us to keep a favourable image in the community"
+
+"CSR3_rev" => "Our company supports only social initiatives that help us to keep a favourable image in the community"
+
+"CSR4_rev" => "Our company supports only social initiatives that help us to keep a favourable image in the community"
+
+"CSR5" => "Our company complies with regulation about employee health and safety"
+
+"CSR6" => "Our company has written policies to prohibit any kind of discrimination in the workplace"
+
+"CSR7" => "Our company ensures that its products and services meet customer requirements"
+
+"CSR8" => "Our company adheres to industrial standards and protocols relevant to its products and services"
+
+"CSR9" => "Our company requests compliance to minimum labour standards to its suppliers"
+
+"CSR10" => "Our company has procedures and action plans to reduce the risk of legal problems"
+
+"CSR11" => "Our company adheres to internationally recognised human rights and CSR standards (i.e. Global Compact, ISO 2600, GRI, etc.)"
+
+"CSR12" => "Our company promotes employee training and work-life balance beyond legal expectations"
+
+"CSR13" => "Our company has identified its main stakeholders and has a method to comply with their expectations"
+
+"CSR14" => "Our company has a code of conduct in line with local, regional, and/or international social standards"
+
+"CSR15" => "Our company engages in an open and two-ways dialogue with a wide range of stakeholders"
+
+"CSR16" => "Our company has a mechanism to address ethical issues raised by employees"
+
+"CSR17" => "Our company has developed a CSR policy and allocated resources for its implementation"
+
+"CSR18" => "In our company managers regularly participate in forums, conferences, and meetings with CSR leading-edge companies and experts"
+
+"CSR19" => "Our company has a CSR committee which is led by top managers"
+
+"CSR20" => "Our company has a CSR committee in which employees from different areas and jobs participate"
+
+"CSR21" => "Our company monitors and reports its social performance to the public"
+
+"CSR22" => "Our company has set targets and key performance indicators to measure its social impacts"
+
+"CSR23" => "Our company integrates the interests of its key stakeholders with that of its own business goals"
+
+"CSR24" => "Our company provides training for its executives and employees regarding ethical and CSR issues"
+
+"CSR25" => "Our company makes its CSR reports are reviewed and verified by an external auditor"
+
+"CSR26" => "Our company ties executive compensation and bonus packages to CSR performance"
+
+"CSR27" => "In our company manager are concerned with improving the general well-being of the society"
+
+"CSR28" => "Our company has alliances with community groups, civil society organisations and/or public authorities working on solving social issues"
+
+"CSR29" => "Our company works in association with other companies to address social issues"
+
+"CSR30" => "Our company promotes external campaigns for raising social and sustainable development issues"
+
+"Gender1" => "Our company offers networking opportunities for women at all levels"
+
+"Gender2" => "Our company offers formal or informal mentoring programs for women"
+
+"Gender3" => "Our company has adopted explicit measures to recruit and train women for traditional masculine occupations (i.e. guards, machine operator, engineer, etc.)"
+
+"Gender4" => "Our company tries to eliminate gender stereotypes that could have negative incidence in the valuation of women?s work."
+
+"Gender5" => "Our company respect the dignity of women in all marketing and other company communications"
+
+"Gender6" => "Our company undertakes proactive efforts to recruit and appoint women to top managerial positions"
+
+"Gender7" => "Our company proactively seeks to comply with all laws regulating equal opportunities for men and women"
+
+"Gender8" => "Our company periodically reviews job titles and responsibilities to ensure equal remuneration for work of equal value to all, women and men"
+
+"Gender9" => "Our company ensures paid paternity and maternity leave to all employees"
+
+"Gender10" => "Our company encourages fathers to use family leave"
+
+"Gender11" => "Our company promotes work-life balance by implementing flexible policies that consider the needs of women and men"
+
+"Gender12" => "Our company supports access to child and dependent care by providing services, resources and information to both women and men."
+
+"Gender13" => "Our company has allocated a budget to address gender diversity issues at work"
+
+"Gender14" => "Our company has a formal policy about gender diversity and inclusion"
+
+"Gender15" => "Our company has identified targets and performance indications to measure its progress on gender diversity at work"
+
+"Gender16" => "Our company has a managerial-level committee in charge of promoting diversity and inclusion at work"
+
+"Gender17" => "Our company ensures that all policies are gender-sensitive by identifying factors that impact women and men differently"
+
+"Gender18" => "Our company includes issues relating to gender equality at work in employee training (i.e. harassment, discrimination, violence, etc.)"
+
+"Gender19" => "Our company works with governments and local communities to eliminate gender-based discrimination at work"
+
+"Gender20" => "Our company collaborates with business partners and suppliers to promote inclusion"
+
+"Gender21" => "Our company requests information from current and potential suppliers on their gender and diversity policies"
+
+"Country" => "Country"
+
+"Market" => "Market"
+
+"ComType" => "Type of company"
+
+"Sector" => "Sector"
+
+"Board" => "Board of Directors"
+
+"WomenInboard" => "% Women in the Board"
+
+"WomenManager" => "Female Top Manager"
+
+"Employees" => "Employees"
+
+"Size" => "Company Size"
+
+"WomenEmployees" => "Total % of Women"
+
+"WomenManagers" => "% of women in top managerial positions"
+
+"WomenMiddleManagers" => "% of women in middle-management positions"
+
+"CSRtime" => "Years in CSR activities"
+
+"JobTitle" => "Job Title"
+
+"Age" => "Age"
+
+"Education" => "Educational level"
+
+"CivilStatus" => "Marital status"
+
+"Sex" => "Sex"
+
+"Scope" => "Scope of answers"
